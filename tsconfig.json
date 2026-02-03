@@ -23,3 +23,21 @@
     "noFallthroughCasesInSwitch": false
   }
 }
+// {
+//   "compilerOptions": {
+//     "module": "commonjs",
+//     "moduleResolution": "node",
+//     "target": "ES2019",
+
+//     "esModuleInterop": true,
+//     "experimentalDecorators": true,
+//     "emitDecoratorMetadata": true,
+
+//     "outDir": "./dist",
+//     "sourceMap": true,
+
+//     "skipLibCheck": true,
+//     "strictNullChecks": true,
+//     "noImplicitAny": false
+//   }
+// }
